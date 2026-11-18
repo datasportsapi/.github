@@ -15,6 +15,7 @@ ids, over REST, a WebSocket and webhooks.
 | For AI assistants | [llms.txt](https://datasportsapi.com/llms.txt) |
 | Live demo | [Matchboard](https://demo.datasportsapi.com), built on nothing but the API |
 | Pricing | [Free to Enterprise](https://datasportsapi.com/pricing/) |
+| Community | [Developer Discord](https://discord.gg/bcqTvknXPC): help, API feedback, showcase |
 
 ## Clients
 
@@ -30,5 +31,5 @@ to `https://api.datasportsapi.com/v2/...` and read the `{ data, meta }` envelope
 
 ## Contact
 
-[hello@datasportsapi.com](mailto:hello@datasportsapi.com) · DataSportsAPI is a product of
+[hello@datasportsapi.com](mailto:hello@datasportsapi.com) · [Discord](https://discord.gg/bcqTvknXPC) · DataSportsAPI is a product of
 [Noventra Software Ltd](https://noventra.dev), London (company 17373060).
