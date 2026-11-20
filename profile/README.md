@@ -1,7 +1,7 @@
 # DataSportsAPI
 
 A real-time sports data API for developers: live scores, fixtures, lineups,
-statistics and standings for **24 sports** in one JSON contract, keyed by stable
+statistics and standings for **25 sports** in one JSON contract, keyed by stable
 ids, over REST, a WebSocket and webhooks.
 
 > **Live.** The API answers today. Get a free key (1,000 requests a day, no card)
