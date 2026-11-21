@@ -31,5 +31,4 @@ to `https://api.datasportsapi.com/v2/...` and read the `{ data, meta }` envelope
 
 ## Contact
 
-[hello@datasportsapi.com](mailto:hello@datasportsapi.com) · [Discord](https://datasportsapi.com/discord) · DataSportsAPI is a product of
-[Noventra Software Ltd](https://noventra.dev), London (company 17373060).
+[hello@datasportsapi.com](mailto:hello@datasportsapi.com) · [Discord](https://datasportsapi.com/discord) · [datasportsapi.com](https://datasportsapi.com)
