@@ -13,9 +13,7 @@ ids, over REST, a WebSocket and webhooks.
 | Docs | [datasportsapi.com/docs](https://datasportsapi.com/docs/) |
 | OpenAPI 3.1 | [openapi.json](https://datasportsapi.com/openapi.json) ([repo](https://github.com/datasportsapi/openapi)) |
 | For AI assistants | [llms.txt](https://datasportsapi.com/llms.txt) |
-| Live demo | [Matchboard](https://demo.datasportsapi.com), built on nothing but the API |
 | Pricing | [Free to Enterprise](https://datasportsapi.com/pricing/) |
-| Community | [Developer Discord](https://datasportsapi.com/discord): help, API feedback, showcase |
 
 ## Clients
 
@@ -31,4 +29,4 @@ to `https://api.datasportsapi.com/v2/...` and read the `{ data, meta }` envelope
 
 ## Contact
 
-[hello@datasportsapi.com](mailto:hello@datasportsapi.com) · [Discord](https://datasportsapi.com/discord) · [datasportsapi.com](https://datasportsapi.com)
+[hello@datasportsapi.com](mailto:hello@datasportsapi.com) · [datasportsapi.com](https://datasportsapi.com)
